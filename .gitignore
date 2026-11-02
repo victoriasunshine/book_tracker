@@ -1,0 +1,12 @@
+# secrets anywhere in the repo (safety net)
+.env*
+!.env.example
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# iOS (later)
+ios/**/xcuserdata/
+ios/**/DerivedData/
