@@ -10,3 +10,4 @@
 # iOS (later)
 ios/**/xcuserdata/
 ios/**/DerivedData/
+.vercel
